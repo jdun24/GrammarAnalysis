@@ -1,4 +1,4 @@
-# GrammerAnalysis
+# GrammarAnalysis
 Parses through an input grammar, finds and removes rules with useless symbols or unreachable rules.  Calculates First and Follow sets of each rule and determines if the grammar has a predictive parser.
 
 Utilizes a makefile with following commands.
